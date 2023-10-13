@@ -343,3 +343,16 @@ video {
   height: auto;
   transform: translate(63px, 187px);
 }
+
+#shadow{
+  opacity: 0;
+  height: 90px;
+  background: linear-gradient(90deg, rgba(0,0,0,0.30015756302521013) 0%, rgba(0,0,0,0.30015756302521013) 65%, rgba(255,255,255,0) 100%);
+  position: absolute;
+  left: 0;
+  width:250px;
+}
+
+#h2{
+  z-index: 5;
+}
