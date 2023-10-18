@@ -254,7 +254,7 @@ img {
 #photo, #photo2 {
   width: 390px;
   height: auto;
-  transform: scaleY(1.02);
+  transform: scaleY(1.05);
   /* clip-path: polygon(0% 0%, 100% 0%, 100% 100%, 0% 100%); full display version */
 /*  clip-path: polygon(0% 100%, 100% 100%, 100% 100%, 0% 100%);*/
 }
